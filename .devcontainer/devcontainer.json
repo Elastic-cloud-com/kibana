@@ -1,4 +1,4 @@
-{
+{@juan430 
   "name": "Kibana",
   "build": {
     "dockerfile": "Dockerfile",
